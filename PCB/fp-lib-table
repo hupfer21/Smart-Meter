@@ -1,4 +1,5 @@
 (fp_lib_table
 	(version 7)
 	(lib (name "1lib") (type "KiCad") (uri "C:/Users/gusta/OneDrive/Documents/1 - kicad/kicadlib/1lib.pretty") (options "") (descr ""))
+	(lib (name "myLIB") (type "KiCad") (uri "C:/Users/gustavo.martins/Documents/KiCad/myLIB/myLIB.pretty") (options "") (descr ""))
 )
