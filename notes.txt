@@ -1,2 +1,5 @@
 MD50 embrasul
-tela OLED I2C
+
+adicionar botão de configuração
+
+adicionar web page para configuração do wifi?
