@@ -3403,6 +3403,19 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Utilizar sensor de corrente\nSCT-013"
+		(exclude_from_sim no)
+		(at 153.162 146.812 0)
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.254)
+				(bold yes)
+				(color 0 0 0 1)
+			)
+		)
+		(uuid "7aedb740-4af7-422b-b173-545c73b60fd6")
+	)
 	(junction
 		(at 96.52 143.51)
 		(diameter 0)
@@ -16576,5 +16589,4 @@
 			(page "2")
 		)
 	)
-	(embedded_fonts no)
 )
