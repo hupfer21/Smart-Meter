@@ -4,4 +4,6 @@
 	(lib (name "myLIB") (type "KiCad") (uri "C:/Users/gustavo.martins/Documents/KiCad/myLIB/myLIB.pretty") (options "") (descr ""))
 	(lib (name "myLIB") (type "KiCad") (uri "${KIPRJMOD}/myLIB/myLIB.pretty") (options "") (descr ""))
 	(lib (name "myLIB") (type "KiCad") (uri "${KIPRJMOD}/myLIB/myLIB.pretty") (options "") (descr ""))
+	(lib (name "Library") (type "KiCad") (uri "${KIPRJMOD}/myLIB/myLIB.pretty/Library.pretty") (options "") (descr ""))
+	(lib (name "myLIB") (type "KiCad") (uri "${KIPRJMOD}/myLIB/myLIB.pretty") (options "") (descr ""))
 )

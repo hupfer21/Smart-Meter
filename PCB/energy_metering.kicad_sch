@@ -12652,7 +12652,7 @@
 				)
 			)
 		)
-		(property "Footprint" "1lib:48TQFP"
+		(property "Footprint" "myLIB:48TQFP"
 			(at 190.5 87.63 0)
 			(hide yes)
 			(show_name no)

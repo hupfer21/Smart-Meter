@@ -9091,7 +9091,7 @@
 				)
 			)
 		)
-		(property "Footprint" "1lib:B0303S-1WR3"
+		(property "Footprint" "myLIB:B0303S-1WR3"
 			(at 60.96 115.57 0)
 			(hide yes)
 			(show_name no)

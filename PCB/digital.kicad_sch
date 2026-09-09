@@ -8368,7 +8368,7 @@
 				)
 			)
 		)
-		(property "Footprint" "1lib:SOIC-4_6.5x4.6_P2.54mm"
+		(property "Footprint" "myLIB:SOIC-4_6.5x4.6_P2.54mm"
 			(at 219.71 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -9987,7 +9987,7 @@
 				)
 			)
 		)
-		(property "Footprint" "1lib:SOIC-4_6.5x4.6_P2.54mm"
+		(property "Footprint" "myLIB:SOIC-4_6.5x4.6_P2.54mm"
 			(at 219.71 67.31 0)
 			(hide yes)
 			(show_name no)
