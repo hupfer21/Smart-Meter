@@ -3441,12 +3441,6 @@
 		(uuid "0cbfaa2e-1406-4610-bf9e-29bc5814c6af")
 	)
 	(junction
-		(at 88.9 50.8)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "12e1bbce-06d1-4a0a-bfaf-6e9ec71e1fc4")
-	)
-	(junction
 		(at 111.76 143.51)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3531,12 +3525,6 @@
 		(uuid "3583aa1a-8f5d-4103-a44f-aae2934dd438")
 	)
 	(junction
-		(at 88.9 82.55)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "431ce8fe-ab4b-4c73-bcac-fefa86a1d977")
-	)
-	(junction
 		(at 242.57 31.75)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3573,12 +3561,6 @@
 		(uuid "54f1afdd-5c96-4d8c-8089-1dcb6ebc48cb")
 	)
 	(junction
-		(at 88.9 114.3)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5560e302-25b1-4e79-a615-18ecae3db311")
-	)
-	(junction
 		(at 228.6 69.85)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3603,7 +3585,7 @@
 		(uuid "6a2d02ef-011a-481a-8c41-9faaf3f94126")
 	)
 	(junction
-		(at 30.48 60.96)
+		(at 29.21 60.96)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6a8c63a0-1ce9-4559-9858-aedd84eedc77")
@@ -3705,6 +3687,12 @@
 		(uuid "a29e81f3-cfc7-4662-bd1c-197167959595")
 	)
 	(junction
+		(at 88.9 82.55)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a99467e8-5c6a-4485-a5bd-c6dca247d335")
+	)
+	(junction
 		(at 64.77 179.07)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3745,6 +3733,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cd3bdfd0-a9f2-4c90-8871-43ada7f5784a")
+	)
+	(junction
+		(at 88.9 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cd437f8b-d25f-43b7-b5be-ba54d5b4da24")
+	)
+	(junction
+		(at 88.9 114.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cda6e605-b8b5-4032-b686-2db762688c69")
 	)
 	(junction
 		(at 138.43 187.96)
@@ -3830,7 +3830,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 60.96) (xy 88.9 60.96)
+			(xy 78.74 60.96) (xy 88.9 60.96)
 		)
 		(stroke
 			(width 0)
@@ -3900,7 +3900,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 50.8) (xy 81.28 50.8)
+			(xy 78.74 50.8) (xy 80.01 50.8)
 		)
 		(stroke
 			(width 0)
@@ -3930,7 +3930,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 114.3) (xy 38.1 114.3)
+			(xy 35.56 114.3) (xy 36.83 114.3)
 		)
 		(stroke
 			(width 0)
@@ -3940,7 +3940,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 114.3) (xy 81.28 114.3)
+			(xy 78.74 114.3) (xy 80.01 114.3)
 		)
 		(stroke
 			(width 0)
@@ -4090,7 +4090,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 60.96) (xy 30.48 60.96)
+			(xy 26.67 60.96) (xy 29.21 60.96)
 		)
 		(stroke
 			(width 0)
@@ -4260,7 +4260,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 82.55) (xy 72.39 82.55)
+			(xy 69.85 82.55) (xy 71.12 82.55)
 		)
 		(stroke
 			(width 0)
@@ -4450,7 +4450,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 50.8) (xy 54.61 50.8)
+			(xy 52.07 50.8) (xy 53.34 50.8)
 		)
 		(stroke
 			(width 0)
@@ -4490,7 +4490,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 63.5) (xy 80.01 60.96)
+			(xy 78.74 63.5) (xy 78.74 60.96)
 		)
 		(stroke
 			(width 0)
@@ -4510,7 +4510,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 82.55) (xy 38.1 82.55)
+			(xy 35.56 82.55) (xy 36.83 82.55)
 		)
 		(stroke
 			(width 0)
@@ -4540,7 +4540,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 95.25) (xy 80.01 92.71)
+			(xy 78.74 95.25) (xy 78.74 92.71)
 		)
 		(stroke
 			(width 0)
@@ -4560,7 +4560,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 82.55) (xy 63.5 82.55)
+			(xy 60.96 82.55) (xy 62.23 82.55)
 		)
 		(stroke
 			(width 0)
@@ -4570,7 +4570,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 114.3) (xy 54.61 114.3)
+			(xy 52.07 114.3) (xy 53.34 114.3)
 		)
 		(stroke
 			(width 0)
@@ -4670,7 +4670,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 92.71) (xy 30.48 92.71)
+			(xy 26.67 92.71) (xy 29.21 92.71)
 		)
 		(stroke
 			(width 0)
@@ -4720,7 +4720,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 82.55) (xy 54.61 82.55)
+			(xy 52.07 82.55) (xy 53.34 82.55)
 		)
 		(stroke
 			(width 0)
@@ -5360,7 +5360,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 114.3) (xy 63.5 114.3)
+			(xy 60.96 114.3) (xy 62.23 114.3)
 		)
 		(stroke
 			(width 0)
@@ -5440,7 +5440,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 114.3) (xy 72.39 114.3)
+			(xy 69.85 114.3) (xy 71.12 114.3)
 		)
 		(stroke
 			(width 0)
@@ -5520,7 +5520,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 92.71) (xy 88.9 92.71)
+			(xy 78.74 92.71) (xy 88.9 92.71)
 		)
 		(stroke
 			(width 0)
@@ -5530,7 +5530,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 50.8) (xy 63.5 50.8)
+			(xy 60.96 50.8) (xy 62.23 50.8)
 		)
 		(stroke
 			(width 0)
@@ -5540,7 +5540,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 50.8) (xy 72.39 50.8)
+			(xy 69.85 50.8) (xy 71.12 50.8)
 		)
 		(stroke
 			(width 0)
@@ -5700,7 +5700,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 82.55) (xy 29.21 82.55)
+			(xy 26.67 82.55) (xy 27.94 82.55)
 		)
 		(stroke
 			(width 0)
@@ -5730,7 +5730,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 114.3) (xy 29.21 114.3)
+			(xy 26.67 114.3) (xy 27.94 114.3)
 		)
 		(stroke
 			(width 0)
@@ -5740,7 +5740,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 92.71) (xy 30.48 95.25)
+			(xy 29.21 92.71) (xy 29.21 95.25)
 		)
 		(stroke
 			(width 0)
@@ -5777,6 +5777,16 @@
 			(type default)
 		)
 		(uuid "bf1902db-ac2f-4204-8817-8c4471ff1da5")
+	)
+	(wire
+		(pts
+			(xy 87.63 82.55) (xy 88.9 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2882ae2-cc4d-4d1a-a46d-ddca3a066240")
 	)
 	(wire
 		(pts
@@ -5880,7 +5890,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 50.8) (xy 38.1 50.8)
+			(xy 35.56 50.8) (xy 36.83 50.8)
 		)
 		(stroke
 			(width 0)
@@ -5960,6 +5970,16 @@
 	)
 	(wire
 		(pts
+			(xy 87.63 50.8) (xy 88.9 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d64f8ff7-7769-4ef3-a195-4d4992830859")
+	)
+	(wire
+		(pts
 			(xy 88.9 60.96) (xy 88.9 59.69)
 		)
 		(stroke
@@ -5990,7 +6010,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 50.8) (xy 29.21 50.8)
+			(xy 26.67 50.8) (xy 27.94 50.8)
 		)
 		(stroke
 			(width 0)
@@ -6010,7 +6030,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.48 60.96) (xy 30.48 63.5)
+			(xy 29.21 60.96) (xy 29.21 63.5)
 		)
 		(stroke
 			(width 0)
@@ -6290,6 +6310,16 @@
 	)
 	(wire
 		(pts
+			(xy 87.63 114.3) (xy 88.9 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9220545-c749-456f-8d9a-db2d8c5ef46e")
+	)
+	(wire
+		(pts
 			(xy 57.15 179.07) (xy 64.77 179.07)
 		)
 		(stroke
@@ -6330,7 +6360,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 82.55) (xy 81.28 82.55)
+			(xy 78.74 82.55) (xy 80.01 82.55)
 		)
 		(stroke
 			(width 0)
@@ -6966,7 +6996,7 @@
 	)
 	(global_label "N"
 		(shape input)
-		(at 27.94 60.96 180)
+		(at 26.67 60.96 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6976,7 +7006,7 @@
 		)
 		(uuid "0b21cbfb-e0df-4207-9c7d-3008d7f425e3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 23.6243 60.96 0)
+			(at 22.3543 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7084,7 +7114,7 @@
 	)
 	(global_label "L3"
 		(shape input)
-		(at 27.94 114.3 180)
+		(at 26.67 114.3 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7094,7 +7124,7 @@
 		)
 		(uuid "4ad49846-6907-4c7c-9d2e-1bf7d8e58f09")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 23.0456 114.3 0)
+			(at 21.7756 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7180,7 +7210,7 @@
 	)
 	(global_label "L2"
 		(shape input)
-		(at 27.94 82.55 180)
+		(at 26.67 82.55 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7190,7 +7220,7 @@
 		)
 		(uuid "74c82797-c073-420b-aaec-f5a63a3695ca")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 23.0456 82.55 0)
+			(at 21.7756 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7442,7 +7472,7 @@
 	)
 	(global_label "L1"
 		(shape input)
-		(at 27.94 50.8 180)
+		(at 26.67 50.8 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7452,7 +7482,7 @@
 		)
 		(uuid "bda2789f-8581-4c36-8ae6-eaea26dc7c56")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 22.7172 50.8 0)
+			(at 21.4472 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7490,7 +7520,7 @@
 	)
 	(global_label "N"
 		(shape input)
-		(at 27.94 92.71 180)
+		(at 26.67 92.71 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7500,7 +7530,7 @@
 		)
 		(uuid "cc711535-785d-46e9-aa58-1e254b1e690b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 23.6243 92.71 0)
+			(at 22.3543 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7678,9 +7708,744 @@
 			)
 		)
 	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 36.83 114.3 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "048d68f7-88ef-4e53-816b-92f4d1ba9d54")
+		(property "Classes da rede" "HV"
+			(at 37.5285 116.84 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at 77.47 157.48 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 53.34 82.55 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "152c2fde-138a-4ead-93ca-f7c4a7d705d5")
+		(property "Classes da rede" "HV"
+			(at 54.0385 85.09 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at 93.98 125.73 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 80.01 50.8 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "20addc51-6cae-4db0-b2ff-862cc5e061af")
+		(property "Classes da rede" "HV"
+			(at 80.7085 53.34 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at 120.65 93.98 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 62.23 50.8 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "24fdb834-055e-4061-93b5-9c6b808d46f3")
+		(property "Classes da rede" "HV"
+			(at 62.9285 53.34 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at 102.87 93.98 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 71.12 50.8 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "2e22501f-dbb3-4db2-9b63-40a43f82a526")
+		(property "Classes da rede" "HV"
+			(at 71.8185 53.34 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at 111.76 93.98 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 44.45 50.8 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "309b1a26-452b-405e-95b1-8d073f8293b2")
+		(property "Classes da rede" "HV"
+			(at 45.1485 53.34 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at 85.09 93.98 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 27.94 82.55 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "35abad6d-6579-4a4e-8174-d989212ae679")
+		(property "Classes da rede" "HV"
+			(at 28.6385 85.09 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at 68.58 125.73 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 27.94 50.8 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "37332a31-0442-41b0-a05a-397a84730582")
+		(property "Classes da rede" "HV"
+			(at 28.6385 53.34 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at 68.58 93.98 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 80.01 114.3 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "4080ab1a-c232-4ab0-9414-ba8002d22c7e")
+		(property "Classes da rede" "HV"
+			(at 80.7085 116.84 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at 120.65 157.48 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 36.83 50.8 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "47bfe8e2-7f4d-4496-a0c8-82b4ae322e2b")
+		(property "Classes da rede" "HV"
+			(at 37.5285 53.34 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at 77.47 93.98 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 80.01 82.55 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "4d7c7f3d-26c8-41b8-8a9e-755e4971c302")
+		(property "Classes da rede" "HV"
+			(at 80.7085 85.09 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at 120.65 125.73 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 27.94 114.3 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "5c9118bc-bb98-4993-812c-0a0860c31d50")
+		(property "Classes da rede" "HV"
+			(at 28.6385 116.84 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at 68.58 157.48 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 62.23 114.3 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "86de8498-67cb-456a-be53-4e0309373976")
+		(property "Classes da rede" "HV"
+			(at 62.9285 116.84 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at 102.87 157.48 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 44.45 82.55 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "92320096-9983-49d2-81cd-59db4f2d3014")
+		(property "Classes da rede" "HV"
+			(at 45.1485 85.09 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at 85.09 125.73 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 71.12 82.55 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "92c4c423-38c7-484c-89b4-6c7230febf26")
+		(property "Classes da rede" "HV"
+			(at 71.8185 85.09 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at 111.76 125.73 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 44.45 114.3 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "92d00499-2060-426f-bd73-1fdb00472c22")
+		(property "Classes da rede" "HV"
+			(at 45.1485 116.84 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at 85.09 157.48 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 53.34 114.3 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "aed082c7-2664-4643-802a-e9c34991327f")
+		(property "Classes da rede" "HV"
+			(at 54.0385 116.84 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at 93.98 157.48 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 53.34 50.8 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b7382165-5f54-4549-81e8-6cf062d3f307")
+		(property "Classes da rede" "HV"
+			(at 54.0385 53.34 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at 93.98 93.98 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 71.12 114.3 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "c50243d0-8891-4039-9854-7dc3b773dd9c")
+		(property "Classes da rede" "HV"
+			(at 71.8185 116.84 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at 111.76 157.48 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 62.23 82.55 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d32d44fc-d488-4ac5-bb06-c9e8378fd849")
+		(property "Classes da rede" "HV"
+			(at 62.9285 85.09 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at 102.87 125.73 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 36.83 82.55 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d3ece284-bbea-47f3-b6c8-6d72b495f69c")
+		(property "Classes da rede" "HV"
+			(at 37.5285 85.09 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at 77.47 125.73 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
 	(symbol
 		(lib_id "Device:R")
-		(at 33.02 114.3 90)
+		(at 31.75 114.3 90)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -7691,8 +8456,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "01361d47-1a27-42fa-809f-c1e3d5516de0")
-		(property "Reference" "R12"
-			(at 33.02 107.95 90)
+		(property "Reference" "R15"
+			(at 31.75 107.95 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7702,7 +8467,7 @@
 			)
 		)
 		(property "Value" "240k/1Q"
-			(at 33.02 110.49 90)
+			(at 31.75 110.49 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7712,7 +8477,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
-			(at 33.02 112.522 90)
+			(at 31.75 112.522 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7723,7 +8488,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 33.02 114.3 0)
+			(at 31.75 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7734,7 +8499,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 33.02 114.3 0)
+			(at 31.75 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7753,6 +8518,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "R15")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "R12")
 					(unit 1)
 				)
@@ -7770,7 +8541,7 @@
 		(in_pos_files yes)
 		(dnp yes)
 		(uuid "0152a494-6c17-426a-a751-3b61862a7bbd")
-		(property "Reference" "R67"
+		(property "Reference" "R56"
 			(at 146.05 194.31 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7832,6 +8603,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "R56")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "R67")
 					(unit 1)
 				)
@@ -7851,7 +8628,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "05b7fac4-406e-47c7-a27a-c1bd01bdfcb4")
-		(property "Reference" "R47"
+		(property "Reference" "R48"
 			(at 104.14 137.16 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7913,6 +8690,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "R48")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "R47")
 					(unit 1)
 				)
@@ -7930,7 +8713,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "163b04a6-58ce-46fc-ae6d-b26e7882204c")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR035"
 			(at 104.14 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -7990,6 +8773,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "#PWR035")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "#PWR030")
 					(unit 1)
 				)
@@ -8007,7 +8796,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "16b2800b-36c5-4f46-9fe1-750b9414843d")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR031"
 			(at 64.77 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -8067,6 +8856,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "#PWR031")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "#PWR029")
 					(unit 1)
 				)
@@ -8085,7 +8880,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "16bf9502-b1b6-4ee2-a53d-554b4fd84b3d")
-		(property "Reference" "J3"
+		(property "Reference" "J8"
 			(at 87.63 25.3999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8168,6 +8963,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "J8")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "J3")
 					(unit 1)
 				)
@@ -8186,7 +8987,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "19779fb2-91f0-4933-8489-10352d47a16e")
-		(property "Reference" "TP8"
+		(property "Reference" "TP2"
 			(at 27.94 136.3979 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8248,6 +9049,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "TP2")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "TP8")
 					(unit 1)
 				)
@@ -8266,7 +9073,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1bd89e11-6ca5-4f15-a441-28bdb5de0949")
-		(property "Reference" "R9"
+		(property "Reference" "R12"
 			(at 27.94 154.9399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8330,6 +9137,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "R12")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "R9")
 					(unit 1)
 				)
@@ -8348,7 +9161,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "253b398f-3b71-4852-b6ed-dfc482fdf3cb")
-		(property "Reference" "TP28"
+		(property "Reference" "TP10"
 			(at 106.68 109.7279 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8410,6 +9223,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "TP10")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "TP28")
 					(unit 1)
 				)
@@ -8418,7 +9237,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 58.42 114.3 90)
+		(at 57.15 114.3 90)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -8429,8 +9248,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "26c1668f-a419-4c33-928f-f95be93d2637")
-		(property "Reference" "R23"
-			(at 58.42 107.95 90)
+		(property "Reference" "R26"
+			(at 57.15 107.95 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8440,7 +9259,7 @@
 			)
 		)
 		(property "Value" "240k/1Q"
-			(at 58.42 110.49 90)
+			(at 57.15 110.49 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8450,7 +9269,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
-			(at 58.42 112.522 90)
+			(at 57.15 112.522 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8461,7 +9280,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 58.42 114.3 0)
+			(at 57.15 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8472,7 +9291,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 58.42 114.3 0)
+			(at 57.15 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8491,6 +9310,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "R26")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "R23")
 					(unit 1)
 				)
@@ -8499,7 +9324,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDPWR")
-		(at 80.01 95.25 0)
+		(at 78.74 95.25 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8508,8 +9333,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2740434e-2ca0-4b6c-99a6-6427a1b53d29")
-		(property "Reference" "#PWR027"
-			(at 80.01 100.33 0)
+		(property "Reference" "#PWR033"
+			(at 78.74 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8520,7 +9345,7 @@
 			)
 		)
 		(property "Value" "GNDPWR"
-			(at 74.676 97.028 0)
+			(at 73.406 97.028 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8530,7 +9355,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 80.01 96.52 0)
+			(at 78.74 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8541,7 +9366,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 80.01 96.52 0)
+			(at 78.74 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8552,7 +9377,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDPWR\" , global ground"
-			(at 80.01 95.25 0)
+			(at 78.74 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8568,6 +9393,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "#PWR033")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "#PWR027")
 					(unit 1)
 				)
@@ -8654,6 +9485,12 @@
 					(unit 1)
 				)
 			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
+					(reference "C17")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -8668,8 +9505,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2947110f-5035-432a-bb84-d1b796758043")
-		(property "Reference" "R39"
-			(at 86.36 86.3599 0)
+		(property "Reference" "R42"
+			(at 85.09 86.3599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8680,7 +9517,7 @@
 			)
 		)
 		(property "Value" "1k/1Q"
-			(at 86.36 88.8999 0)
+			(at 85.09 88.8999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8732,6 +9569,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "R42")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "R39")
 					(unit 1)
 				)
@@ -8749,7 +9592,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2b44c0d3-6b6e-42af-ab1c-999fbf9f83c8")
-		(property "Reference" "C21"
+		(property "Reference" "C23"
 			(at 217.17 69.088 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8813,6 +9656,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "C23")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "C21")
 					(unit 1)
 				)
@@ -8832,7 +9681,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2d475419-b411-4db0-8378-64ab2cf8c66a")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR038"
 			(at 161.29 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -8892,6 +9741,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "#PWR038")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "#PWR032")
 					(unit 1)
 				)
@@ -8911,7 +9766,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "351866d4-5ca5-4b20-98f9-955fad538c40")
-		(property "Reference" "R35"
+		(property "Reference" "R29"
 			(at 64.77 162.56 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8973,6 +9828,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "R29")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "R35")
 					(unit 1)
 				)
@@ -8981,7 +9842,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 49.53 114.3 90)
+		(at 48.26 114.3 90)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -8992,8 +9853,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "352670e9-c487-4842-bcb5-1d7eeeb800cb")
-		(property "Reference" "R20"
-			(at 49.53 107.95 90)
+		(property "Reference" "R23"
+			(at 48.26 107.95 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9003,7 +9864,7 @@
 			)
 		)
 		(property "Value" "240k/1Q"
-			(at 49.53 110.49 90)
+			(at 48.26 110.49 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9013,7 +9874,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
-			(at 49.53 112.522 90)
+			(at 48.26 112.522 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9024,7 +9885,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 49.53 114.3 0)
+			(at 48.26 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9035,7 +9896,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 49.53 114.3 0)
+			(at 48.26 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9054,6 +9915,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "R23")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "R20")
 					(unit 1)
 				)
@@ -9062,7 +9929,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 41.91 50.8 90)
+		(at 40.64 50.8 90)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -9073,8 +9940,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3cfded13-6c89-4aa7-9460-3d7d0776e76d")
-		(property "Reference" "R15"
-			(at 41.91 44.45 90)
+		(property "Reference" "R18"
+			(at 40.64 44.45 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9084,7 +9951,7 @@
 			)
 		)
 		(property "Value" "240k/1Q"
-			(at 41.91 46.99 90)
+			(at 40.64 46.99 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9094,7 +9961,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
-			(at 41.91 49.022 90)
+			(at 40.64 49.022 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9105,7 +9972,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 41.91 50.8 0)
+			(at 40.64 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9116,7 +9983,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 41.91 50.8 0)
+			(at 40.64 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9135,6 +10002,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "R18")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "R15")
 					(unit 1)
 				)
@@ -9152,7 +10025,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "40aa3eae-489c-4b17-bba5-52d157833f57")
-		(property "Reference" "C23"
+		(property "Reference" "C25"
 			(at 231.394 50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9216,6 +10089,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "C25")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "C23")
 					(unit 1)
 				)
@@ -9234,7 +10113,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4157ab34-c897-44ab-81ed-6b1de5eb0670")
-		(property "Reference" "TP15"
+		(property "Reference" "TP6"
 			(at 93.98 138.9379 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9296,6 +10175,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "TP6")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "TP15")
 					(unit 1)
 				)
@@ -9304,7 +10189,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 76.2 114.3 90)
+		(at 74.93 114.3 90)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -9315,8 +10200,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "428969ad-4910-490e-9887-99b30d8c1ca7")
-		(property "Reference" "R29"
-			(at 76.2 107.95 90)
+		(property "Reference" "R36"
+			(at 74.93 107.95 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9326,7 +10211,7 @@
 			)
 		)
 		(property "Value" "240k/1Q"
-			(at 76.2 110.49 90)
+			(at 74.93 110.49 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9336,7 +10221,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
-			(at 76.2 112.522 90)
+			(at 74.93 112.522 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9347,7 +10232,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 76.2 114.3 0)
+			(at 74.93 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9358,7 +10243,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 76.2 114.3 0)
+			(at 74.93 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9377,6 +10262,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "R36")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "R29")
 					(unit 1)
 				)
@@ -9395,7 +10286,7 @@
 		(in_pos_files yes)
 		(dnp yes)
 		(uuid "44e5b963-e0b6-41e9-8d87-c38f48085c50")
-		(property "Reference" "R49"
+		(property "Reference" "R54"
 			(at 143.51 105.4099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9459,6 +10350,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "R54")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "R49")
 					(unit 1)
 				)
@@ -9477,8 +10374,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "45877f76-cf52-44ae-9577-90119aa051d8")
-		(property "Reference" "R37"
-			(at 86.36 54.6099 0)
+		(property "Reference" "R40"
+			(at 85.09 54.6099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9489,7 +10386,7 @@
 			)
 		)
 		(property "Value" "1k/1Q"
-			(at 86.36 57.1499 0)
+			(at 85.09 57.1499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9541,6 +10438,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "R40")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "R37")
 					(unit 1)
 				)
@@ -9549,7 +10452,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 85.09 114.3 90)
+		(at 83.82 114.3 90)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -9560,8 +10463,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "478f0bd9-bfdb-497e-ba11-879b49320e91")
-		(property "Reference" "R34"
-			(at 85.09 107.95 90)
+		(property "Reference" "R39"
+			(at 83.82 107.95 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9571,7 +10474,7 @@
 			)
 		)
 		(property "Value" "240k/1Q"
-			(at 85.09 110.49 90)
+			(at 83.82 110.49 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9581,7 +10484,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
-			(at 85.09 112.522 90)
+			(at 83.82 112.522 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9592,7 +10495,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 85.09 114.3 0)
+			(at 83.82 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9603,7 +10506,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 85.09 114.3 0)
+			(at 83.82 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9622,6 +10525,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "R39")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "R34")
 					(unit 1)
 				)
@@ -9641,7 +10550,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "487737a7-3810-4128-a2ae-5d011fac5a83")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR042"
 			(at 228.6 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -9701,6 +10610,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "#PWR042")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "#PWR036")
 					(unit 1)
 				)
@@ -9719,7 +10634,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "487e068e-e6d2-4f49-9d8c-91b39d01cf7c")
-		(property "Reference" "TP10"
+		(property "Reference" "TP4"
 			(at 54.61 164.3379 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9781,6 +10696,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "TP4")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "TP10")
 					(unit 1)
 				)
@@ -9789,7 +10710,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 33.02 50.8 90)
+		(at 31.75 50.8 90)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -9800,8 +10721,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4a4c719d-5663-4696-9110-a3cac5c9acc1")
-		(property "Reference" "R10"
-			(at 33.02 44.45 90)
+		(property "Reference" "R13"
+			(at 31.75 44.45 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9811,7 +10732,7 @@
 			)
 		)
 		(property "Value" "240k/1Q"
-			(at 33.02 46.99 90)
+			(at 31.75 46.99 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9821,7 +10742,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
-			(at 33.02 49.022 90)
+			(at 31.75 49.022 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9832,7 +10753,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 33.02 50.8 0)
+			(at 31.75 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9843,7 +10764,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 33.02 50.8 0)
+			(at 31.75 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9862,6 +10783,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "R13")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "R10")
 					(unit 1)
 				)
@@ -9948,6 +10875,12 @@
 					(unit 1)
 				)
 			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
+					(reference "C13")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -9961,7 +10894,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4df99ac0-d6df-4408-9279-c987fd4b048d")
-		(property "Reference" "R48"
+		(property "Reference" "R49"
 			(at 104.14 170.18 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10023,6 +10956,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "R49")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "R48")
 					(unit 1)
 				)
@@ -10040,7 +10979,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "501cc5b1-3d48-4f5d-9340-75c6dba2f651")
-		(property "Reference" "TP11"
+		(property "Reference" "TP5"
 			(at 54.61 193.8021 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10102,6 +11041,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "TP5")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "TP11")
 					(unit 1)
 				)
@@ -10121,7 +11066,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "507a4e24-b6c5-4db5-9035-8efd7c9089e7")
-		(property "Reference" "R66"
+		(property "Reference" "R55"
 			(at 146.05 161.29 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10183,6 +11128,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "R55")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "R66")
 					(unit 1)
 				)
@@ -10269,11 +11220,17 @@
 					(unit 1)
 				)
 			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
+					(reference "C8")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 49.53 50.8 90)
+		(at 48.26 50.8 90)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -10284,8 +11241,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "52c96763-b5ee-4ad4-9233-5246c03257e6")
-		(property "Reference" "R18"
-			(at 49.53 44.45 90)
+		(property "Reference" "R21"
+			(at 48.26 44.45 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10295,7 +11252,7 @@
 			)
 		)
 		(property "Value" "240k/1Q"
-			(at 49.53 46.99 90)
+			(at 48.26 46.99 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10305,7 +11262,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
-			(at 49.53 49.022 90)
+			(at 48.26 49.022 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10316,7 +11273,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 49.53 50.8 0)
+			(at 48.26 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10327,7 +11284,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 49.53 50.8 0)
+			(at 48.26 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10346,6 +11303,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "R21")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "R18")
 					(unit 1)
 				)
@@ -10363,7 +11326,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "55d40969-d026-49e6-b23b-95bab1268ac4")
-		(property "Reference" "#PWR038"
+		(property "Reference" "#PWR044"
 			(at 228.6 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -10423,6 +11386,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "#PWR044")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "#PWR038")
 					(unit 1)
 				)
@@ -10440,7 +11409,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "56b1f6ed-3088-4825-b0d0-25e4610e497c")
-		(property "Reference" "C38"
+		(property "Reference" "C28"
 			(at 249.936 39.878 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10504,6 +11473,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "C28")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "C38")
 					(unit 1)
 				)
@@ -10512,7 +11487,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 49.53 82.55 90)
+		(at 48.26 82.55 90)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -10523,8 +11498,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "58c79f58-0bee-4967-87a1-c2127577bf8b")
-		(property "Reference" "R19"
-			(at 49.53 76.2 90)
+		(property "Reference" "R22"
+			(at 48.26 76.2 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10534,7 +11509,7 @@
 			)
 		)
 		(property "Value" "240k/1Q"
-			(at 49.53 78.74 90)
+			(at 48.26 78.74 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10544,7 +11519,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
-			(at 49.53 80.772 90)
+			(at 48.26 80.772 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10555,7 +11530,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 49.53 82.55 0)
+			(at 48.26 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10566,7 +11541,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 49.53 82.55 0)
+			(at 48.26 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10585,6 +11560,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "R22")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "R19")
 					(unit 1)
 				)
@@ -10602,7 +11583,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "593f2fcc-5a36-487b-81fa-ca24d6fe9635")
-		(property "Reference" "R36"
+		(property "Reference" "R30"
 			(at 64.77 195.58 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10664,6 +11645,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "R30")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "R36")
 					(unit 1)
 				)
@@ -10682,8 +11669,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5ea70822-7ee0-4026-86dc-09dffaefdc50")
-		(property "Reference" "R38"
-			(at 86.36 64.7699 0)
+		(property "Reference" "R41"
+			(at 85.09 64.7699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10694,7 +11681,7 @@
 			)
 		)
 		(property "Value" "1k/1Q"
-			(at 86.36 67.3099 0)
+			(at 85.09 67.3099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10746,6 +11733,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "R41")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "R38")
 					(unit 1)
 				)
@@ -10764,7 +11757,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5eea72a8-9034-4258-a3f6-8e43659fca3b")
-		(property "Reference" "J2"
+		(property "Reference" "J7"
 			(at 39.37 19.05 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10833,6 +11826,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "J7")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "J2")
 					(unit 1)
 				)
@@ -10851,7 +11850,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "5f4b7031-abcc-4791-8627-463bd1e77f63")
-		(property "Reference" "C39"
+		(property "Reference" "C19"
 			(at 157.48 181.6099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10915,6 +11914,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "C19")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "C39")
 					(unit 1)
 				)
@@ -10932,7 +11937,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "602b086a-bef7-4b48-a65b-69734156b3dd")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR041"
 			(at 213.36 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -10992,6 +11997,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "#PWR041")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "#PWR035")
 					(unit 1)
 				)
@@ -11010,7 +12021,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "60c8074b-9c96-4d66-ad26-6d4860be45e8")
-		(property "Reference" "R44"
+		(property "Reference" "R46"
 			(at 93.98 147.3199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11074,6 +12085,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "R46")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "R44")
 					(unit 1)
 				)
@@ -11092,7 +12109,7 @@
 		(in_pos_files yes)
 		(dnp yes)
 		(uuid "60d15f05-1141-429a-a7ce-da532202538a")
-		(property "Reference" "R65"
+		(property "Reference" "R53"
 			(at 135.89 181.6099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11156,6 +12173,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "R53")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "R65")
 					(unit 1)
 				)
@@ -11242,6 +12265,12 @@
 					(unit 1)
 				)
 			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
+					(reference "C14")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11324,6 +12353,12 @@
 					(unit 1)
 				)
 			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
+					(reference "C15")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11338,7 +12373,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6fcb330b-9955-42d1-b28c-8d313b78373d")
-		(property "Reference" "TP12"
+		(property "Reference" "TP8"
 			(at 106.68 46.2279 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11400,6 +12435,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "TP8")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "TP12")
 					(unit 1)
 				)
@@ -11408,7 +12449,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 30.48 60.96 0)
+		(at 29.21 60.96 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11418,8 +12459,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "74f11436-54b0-43a9-a0bc-2e4852a78073")
-		(property "Reference" "TP7"
-			(at 33.02 56.3879 0)
+		(property "Reference" "TP1"
+			(at 31.75 56.3879 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11430,7 +12471,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 33.02 58.9279 0)
+			(at 31.75 58.9279 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11442,7 +12483,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 35.56 60.96 0)
+			(at 34.29 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11453,7 +12494,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 35.56 60.96 0)
+			(at 34.29 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11464,7 +12505,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 30.48 60.96 0)
+			(at 29.21 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11480,6 +12521,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "TP1")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "TP7")
 					(unit 1)
 				)
@@ -11497,7 +12544,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7546c8ef-3c59-44c1-b9ef-79f7a1c6960c")
-		(property "Reference" "C37"
+		(property "Reference" "C27"
 			(at 239.776 39.878 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11561,6 +12608,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "C27")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "C37")
 					(unit 1)
 				)
@@ -11917,6 +12970,12 @@
 					(unit 1)
 				)
 			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
+					(reference "U5")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -11930,7 +12989,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "76a5db5f-de1f-4bf2-a37e-daafc50506e3")
-		(property "Reference" "C20"
+		(property "Reference" "C22"
 			(at 217.17 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11994,6 +13053,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "C22")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "C20")
 					(unit 1)
 				)
@@ -12011,7 +13076,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "76c71226-e985-4cbf-9890-5ebaf99c29a7")
-		(property "Reference" "#PWR037"
+		(property "Reference" "#PWR043"
 			(at 228.6 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -12071,6 +13136,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "#PWR043")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "#PWR037")
 					(unit 1)
 				)
@@ -12089,7 +13160,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "77e2756b-0017-480d-8f31-3f56b97eb912")
-		(property "Reference" "C18"
+		(property "Reference" "C20"
 			(at 157.48 52.0699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12153,6 +13224,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "C20")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "C18")
 					(unit 1)
 				)
@@ -12171,8 +13248,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "79321b4e-bc5d-4b13-bb28-1ddeea6587a8")
-		(property "Reference" "R40"
-			(at 86.36 96.5199 0)
+		(property "Reference" "R43"
+			(at 85.09 96.5199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12183,7 +13260,7 @@
 			)
 		)
 		(property "Value" "1k/1Q"
-			(at 86.36 99.0599 0)
+			(at 85.09 99.0599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12235,6 +13312,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "R43")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "R40")
 					(unit 1)
 				)
@@ -12252,7 +13335,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "79a479e1-3503-4e2b-be88-3d6a092e1a9d")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR040"
 			(at 167.64 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -12312,6 +13395,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "#PWR040")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "#PWR034")
 					(unit 1)
 				)
@@ -12329,7 +13418,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7b236c7c-a615-4343-b910-aaf082c510d8")
-		(property "Reference" "#PWR040"
+		(property "Reference" "#PWR036"
 			(at 146.05 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -12389,6 +13478,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "#PWR036")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "#PWR040")
 					(unit 1)
 				)
@@ -12397,7 +13492,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 58.42 82.55 90)
+		(at 57.15 82.55 90)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -12408,8 +13503,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7e4396aa-35b8-475d-9220-4b78ce70913b")
-		(property "Reference" "R22"
-			(at 58.42 76.2 90)
+		(property "Reference" "R25"
+			(at 57.15 76.2 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12419,7 +13514,7 @@
 			)
 		)
 		(property "Value" "240k/1Q"
-			(at 58.42 78.74 90)
+			(at 57.15 78.74 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12429,7 +13524,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
-			(at 58.42 80.772 90)
+			(at 57.15 80.772 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12440,7 +13535,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 58.42 82.55 0)
+			(at 57.15 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12451,7 +13546,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 58.42 82.55 0)
+			(at 57.15 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12470,6 +13565,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "R25")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "R22")
 					(unit 1)
 				)
@@ -12478,7 +13579,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDPWR")
-		(at 80.01 63.5 0)
+		(at 78.74 63.5 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12487,8 +13588,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "80966cba-4248-4831-a13d-12849a576b9a")
-		(property "Reference" "#PWR026"
-			(at 80.01 68.58 0)
+		(property "Reference" "#PWR032"
+			(at 78.74 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12499,7 +13600,7 @@
 			)
 		)
 		(property "Value" "GNDPWR"
-			(at 74.676 65.278 0)
+			(at 73.406 65.278 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12509,7 +13610,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 80.01 64.77 0)
+			(at 78.74 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12520,7 +13621,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 80.01 64.77 0)
+			(at 78.74 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12531,7 +13632,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDPWR\" , global ground"
-			(at 80.01 63.5 0)
+			(at 78.74 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12547,6 +13648,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "#PWR032")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "#PWR026")
 					(unit 1)
 				)
@@ -12565,7 +13672,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "832c9d14-9984-4fca-87d0-dcc261bcf1d5")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR037"
 			(at 153.67 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -12625,6 +13732,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "#PWR037")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "#PWR031")
 					(unit 1)
 				)
@@ -12633,7 +13746,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDPWR")
-		(at 30.48 95.25 0)
+		(at 29.21 95.25 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12642,8 +13755,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "844248a7-10e7-4df3-b51d-2ca5dbd8eaee")
-		(property "Reference" "#PWR023"
-			(at 30.48 100.33 0)
+		(property "Reference" "#PWR028"
+			(at 29.21 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12654,7 +13767,7 @@
 			)
 		)
 		(property "Value" "GNDPWR"
-			(at 35.306 96.774 0)
+			(at 34.036 96.774 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12664,7 +13777,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 30.48 96.52 0)
+			(at 29.21 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12675,7 +13788,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 30.48 96.52 0)
+			(at 29.21 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12686,7 +13799,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDPWR\" , global ground"
-			(at 30.48 95.25 0)
+			(at 29.21 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12702,6 +13815,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "#PWR028")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "#PWR023")
 					(unit 1)
 				)
@@ -12788,11 +13907,17 @@
 					(unit 1)
 				)
 			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
+					(reference "C12")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 58.42 50.8 90)
+		(at 57.15 50.8 90)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -12803,8 +13928,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "89676d1d-34a2-42f3-be40-ccaffcee3a9d")
-		(property "Reference" "R21"
-			(at 58.42 44.45 90)
+		(property "Reference" "R24"
+			(at 57.15 44.45 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12814,7 +13939,7 @@
 			)
 		)
 		(property "Value" "240k/1Q"
-			(at 58.42 46.99 90)
+			(at 57.15 46.99 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12824,7 +13949,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
-			(at 58.42 49.022 90)
+			(at 57.15 49.022 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12835,7 +13960,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 58.42 50.8 0)
+			(at 57.15 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12846,7 +13971,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 58.42 50.8 0)
+			(at 57.15 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12865,6 +13990,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "R24")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "R21")
 					(unit 1)
 				)
@@ -12882,7 +14013,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8c8829c0-19f1-4140-b89e-3f5a2d25a0fd")
-		(property "Reference" "TP9"
+		(property "Reference" "TP3"
 			(at 27.94 165.8621 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12944,6 +14075,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "TP3")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "TP9")
 					(unit 1)
 				)
@@ -12962,7 +14099,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "94c18dae-a54e-4510-b004-c699d4ebc61e")
-		(property "Reference" "R30"
+		(property "Reference" "R27"
 			(at 54.61 172.7199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13026,6 +14163,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "R27")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "R30")
 					(unit 1)
 				)
@@ -13034,7 +14177,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 41.91 114.3 90)
+		(at 40.64 114.3 90)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -13045,8 +14188,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9592b095-8fb4-45d5-95ee-4adea061832d")
-		(property "Reference" "R17"
-			(at 41.91 107.95 90)
+		(property "Reference" "R20"
+			(at 40.64 107.95 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13056,7 +14199,7 @@
 			)
 		)
 		(property "Value" "240k/1Q"
-			(at 41.91 110.49 90)
+			(at 40.64 110.49 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13066,7 +14209,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
-			(at 41.91 112.522 90)
+			(at 40.64 112.522 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13077,7 +14220,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 41.91 114.3 0)
+			(at 40.64 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13088,7 +14231,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 41.91 114.3 0)
+			(at 40.64 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13107,6 +14250,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "R20")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "R17")
 					(unit 1)
 				)
@@ -13124,7 +14273,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9618d4f2-89ec-4200-9638-a70f501309ee")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR029"
 			(at 30.48 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -13184,6 +14333,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "#PWR029")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "#PWR024")
 					(unit 1)
 				)
@@ -13192,7 +14347,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 85.09 50.8 90)
+		(at 83.82 50.8 90)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -13203,8 +14358,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "962e4b82-7aec-449a-b11a-56b5e643180f")
-		(property "Reference" "R32"
-			(at 85.09 44.45 90)
+		(property "Reference" "R37"
+			(at 83.82 44.45 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13214,7 +14369,7 @@
 			)
 		)
 		(property "Value" "240k/1Q"
-			(at 85.09 46.99 90)
+			(at 83.82 46.99 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13224,7 +14379,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
-			(at 85.09 49.022 90)
+			(at 83.82 49.022 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13235,7 +14390,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 85.09 50.8 0)
+			(at 83.82 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13246,7 +14401,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 85.09 50.8 0)
+			(at 83.82 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13265,6 +14420,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "R37")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "R32")
 					(unit 1)
 				)
@@ -13273,7 +14434,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 67.31 82.55 90)
+		(at 66.04 82.55 90)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -13284,8 +14445,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "962e5669-792e-4090-a6d9-57873faa7c79")
-		(property "Reference" "R25"
-			(at 67.31 76.2 90)
+		(property "Reference" "R32"
+			(at 66.04 76.2 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13295,7 +14456,7 @@
 			)
 		)
 		(property "Value" "240k/1Q"
-			(at 67.31 78.74 90)
+			(at 66.04 78.74 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13305,7 +14466,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
-			(at 67.31 80.772 90)
+			(at 66.04 80.772 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13316,7 +14477,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 67.31 82.55 0)
+			(at 66.04 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13327,7 +14488,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 67.31 82.55 0)
+			(at 66.04 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13346,6 +14507,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "R32")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "R25")
 					(unit 1)
 				)
@@ -13354,7 +14521,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 41.91 82.55 90)
+		(at 40.64 82.55 90)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -13365,8 +14532,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9a79f8b3-84c3-4636-90b8-3e9fc4c417b4")
-		(property "Reference" "R16"
-			(at 41.91 76.2 90)
+		(property "Reference" "R19"
+			(at 40.64 76.2 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13376,7 +14543,7 @@
 			)
 		)
 		(property "Value" "240k/1Q"
-			(at 41.91 78.74 90)
+			(at 40.64 78.74 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13386,7 +14553,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
-			(at 41.91 80.772 90)
+			(at 40.64 80.772 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13397,7 +14564,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 41.91 82.55 0)
+			(at 40.64 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13408,7 +14575,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 41.91 82.55 0)
+			(at 40.64 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13427,6 +14594,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "R19")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "R16")
 					(unit 1)
 				)
@@ -13444,7 +14617,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9ab3104c-1ca1-4654-9666-f28efc549d15")
-		(property "Reference" "C22"
+		(property "Reference" "C24"
 			(at 231.394 36.83 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13508,6 +14681,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "C24")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "C22")
 					(unit 1)
 				)
@@ -13594,6 +14773,12 @@
 					(unit 1)
 				)
 			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
+					(reference "C11")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -13608,7 +14793,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9cf590b4-1791-489a-a6fd-4c7d50eacdf2")
-		(property "Reference" "R8"
+		(property "Reference" "R11"
 			(at 27.94 144.7799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13672,6 +14857,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "R11")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "R8")
 					(unit 1)
 				)
@@ -13689,7 +14880,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9efc73f8-c2a9-47d7-8f70-5ed4572b66a5")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR034"
 			(at 80.01 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -13749,6 +14940,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "#PWR034")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "#PWR028")
 					(unit 1)
 				)
@@ -13767,7 +14964,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "9f9f440e-ad5f-4cb9-b9f7-d68a7815b3d7")
-		(property "Reference" "J4"
+		(property "Reference" "J9"
 			(at 265.43 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13860,6 +15057,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "J9")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "J4")
 					(unit 1)
 				)
@@ -13868,7 +15071,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 67.31 114.3 90)
+		(at 66.04 114.3 90)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -13879,8 +15082,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a54430d4-831a-45b8-819d-3dd25ca6cb7f")
-		(property "Reference" "R26"
-			(at 67.31 107.95 90)
+		(property "Reference" "R33"
+			(at 66.04 107.95 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13890,7 +15093,7 @@
 			)
 		)
 		(property "Value" "240k/1Q"
-			(at 67.31 110.49 90)
+			(at 66.04 110.49 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13900,7 +15103,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
-			(at 67.31 112.522 90)
+			(at 66.04 112.522 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13911,7 +15114,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 67.31 114.3 0)
+			(at 66.04 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13922,7 +15125,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 67.31 114.3 0)
+			(at 66.04 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13941,6 +15144,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "R33")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "R26")
 					(unit 1)
 				)
@@ -13949,7 +15158,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 76.2 82.55 90)
+		(at 74.93 82.55 90)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -13960,8 +15169,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ad084cbd-999c-443e-9864-28ea24c9ea8c")
-		(property "Reference" "R28"
-			(at 76.2 76.2 90)
+		(property "Reference" "R35"
+			(at 74.93 76.2 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13971,7 +15180,7 @@
 			)
 		)
 		(property "Value" "240k/1Q"
-			(at 76.2 78.74 90)
+			(at 74.93 78.74 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13981,7 +15190,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
-			(at 76.2 80.772 90)
+			(at 74.93 80.772 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13992,7 +15201,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 76.2 82.55 0)
+			(at 74.93 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14003,7 +15212,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 76.2 82.55 0)
+			(at 74.93 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14022,6 +15231,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "R35")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "R28")
 					(unit 1)
 				)
@@ -14040,7 +15255,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ae30ab05-69ed-44a9-a1e6-2e29248b085a")
-		(property "Reference" "R31"
+		(property "Reference" "R28"
 			(at 54.61 182.8799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14104,6 +15319,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "R28")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "R31")
 					(unit 1)
 				)
@@ -14121,7 +15342,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "afb3f712-7d54-4b89-afbf-48fb37f39a28")
-		(property "Reference" "#PWR043"
+		(property "Reference" "#PWR047"
 			(at 265.43 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -14181,6 +15402,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "#PWR047")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "#PWR043")
 					(unit 1)
 				)
@@ -14198,7 +15425,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "afe8a768-1902-42c3-b155-069898ff1e86")
-		(property "Reference" "TP16"
+		(property "Reference" "TP7"
 			(at 93.98 168.4021 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14260,6 +15487,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "TP7")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "TP16")
 					(unit 1)
 				)
@@ -14277,7 +15510,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b2c75029-8c45-45c7-b064-59b4215c367b")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR030"
 			(at 38.1 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -14337,6 +15570,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "#PWR030")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "#PWR025")
 					(unit 1)
 				)
@@ -14355,7 +15594,7 @@
 		(in_pos_files yes)
 		(dnp yes)
 		(uuid "b512982d-0940-40aa-9508-5e5a1e5a7457")
-		(property "Reference" "R43"
+		(property "Reference" "R50"
 			(at 128.27 105.4099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14419,6 +15658,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "R50")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "R43")
 					(unit 1)
 				)
@@ -14427,7 +15672,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 76.2 50.8 90)
+		(at 74.93 50.8 90)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -14438,8 +15683,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b72bfcd5-14a3-4086-9625-df22ab072ced")
-		(property "Reference" "R27"
-			(at 76.2 44.45 90)
+		(property "Reference" "R34"
+			(at 74.93 44.45 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14449,7 +15694,7 @@
 			)
 		)
 		(property "Value" "240k/1Q"
-			(at 76.2 46.99 90)
+			(at 74.93 46.99 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14459,7 +15704,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
-			(at 76.2 49.022 90)
+			(at 74.93 49.022 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14470,7 +15715,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 76.2 50.8 0)
+			(at 74.93 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14481,7 +15726,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 76.2 50.8 0)
+			(at 74.93 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14500,6 +15745,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "R34")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "R27")
 					(unit 1)
 				)
@@ -14586,6 +15837,12 @@
 					(unit 1)
 				)
 			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
+					(reference "C16")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -14600,7 +15857,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b7dbdf4c-e452-4376-9b64-e2d5a7b01d6c")
-		(property "Reference" "TP25"
+		(property "Reference" "TP11"
 			(at 135.89 163.0679 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14662,6 +15919,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "TP11")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "TP25")
 					(unit 1)
 				)
@@ -14680,7 +15943,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bd32b9bc-83d0-4088-b8d5-9333e5b0533e")
-		(property "Reference" "TP17"
+		(property "Reference" "TP13"
 			(at 233.68 59.6899 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14742,6 +16005,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "TP13")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "TP17")
 					(unit 1)
 				)
@@ -14760,7 +16029,7 @@
 		(in_pos_files yes)
 		(dnp yes)
 		(uuid "bdee64cf-03b0-48ab-9acb-7657a6423769")
-		(property "Reference" "R46"
+		(property "Reference" "R51"
 			(at 135.89 105.4099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14824,6 +16093,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "R51")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "R46")
 					(unit 1)
 				)
@@ -14910,6 +16185,12 @@
 					(unit 1)
 				)
 			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
+					(reference "C6")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -14923,7 +16204,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c0a454cb-f379-43f1-9997-2bef5ffd23a8")
-		(property "Reference" "C24"
+		(property "Reference" "C26"
 			(at 231.394 64.77 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14987,6 +16268,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "C26")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "C24")
 					(unit 1)
 				)
@@ -15004,7 +16291,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c5ad07f7-5768-4d63-aacd-53d2d1e6f288")
-		(property "Reference" "C19"
+		(property "Reference" "C21"
 			(at 216.916 39.878 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15068,6 +16355,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "C21")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "C19")
 					(unit 1)
 				)
@@ -15154,6 +16447,12 @@
 					(unit 1)
 				)
 			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
+					(reference "C9")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -15236,6 +16535,12 @@
 					(unit 1)
 				)
 			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
+					(reference "C10")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -15249,7 +16554,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cb4e1c9f-2197-44a5-b488-2c82db821208")
-		(property "Reference" "R14"
+		(property "Reference" "R17"
 			(at 38.1 167.64 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15311,6 +16616,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "R17")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "R14")
 					(unit 1)
 				)
@@ -15319,7 +16630,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 33.02 82.55 90)
+		(at 31.75 82.55 90)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -15330,8 +16641,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cebfef49-6a1f-4722-9bc9-08b1c8257be7")
-		(property "Reference" "R11"
-			(at 33.02 76.2 90)
+		(property "Reference" "R14"
+			(at 31.75 76.2 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15341,7 +16652,7 @@
 			)
 		)
 		(property "Value" "240k/1Q"
-			(at 33.02 78.74 90)
+			(at 31.75 78.74 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15351,7 +16662,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
-			(at 33.02 80.772 90)
+			(at 31.75 80.772 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15362,7 +16673,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 33.02 82.55 0)
+			(at 31.75 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15373,7 +16684,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 33.02 82.55 0)
+			(at 31.75 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15392,6 +16703,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "R14")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "R11")
 					(unit 1)
 				)
@@ -15411,7 +16728,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d141df42-2969-45d2-a349-680136580f75")
-		(property "Reference" "R13"
+		(property "Reference" "R16"
 			(at 38.1 134.62 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15473,6 +16790,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "R16")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "R13")
 					(unit 1)
 				)
@@ -15481,7 +16804,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDPWR")
-		(at 30.48 63.5 0)
+		(at 29.21 63.5 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15490,8 +16813,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d364423e-afc0-4547-ab4e-e99f017f999e")
-		(property "Reference" "#PWR022"
-			(at 30.48 68.58 0)
+		(property "Reference" "#PWR027"
+			(at 29.21 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15502,7 +16825,7 @@
 			)
 		)
 		(property "Value" "GNDPWR"
-			(at 35.306 65.024 0)
+			(at 34.036 65.024 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15512,7 +16835,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 30.48 64.77 0)
+			(at 29.21 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15523,7 +16846,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 30.48 64.77 0)
+			(at 29.21 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15534,7 +16857,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDPWR\" , global ground"
-			(at 30.48 63.5 0)
+			(at 29.21 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15550,6 +16873,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "#PWR027")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "#PWR022")
 					(unit 1)
 				)
@@ -15568,7 +16897,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d62fa621-88d7-4e36-af9a-98b3501891c4")
-		(property "Reference" "TP14"
+		(property "Reference" "TP9"
 			(at 106.68 77.9779 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15630,6 +16959,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "TP9")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "TP14")
 					(unit 1)
 				)
@@ -15648,7 +16983,7 @@
 		(in_pos_files yes)
 		(dnp yes)
 		(uuid "d6c7197b-4382-47cd-8e62-de8dec0215fc")
-		(property "Reference" "R64"
+		(property "Reference" "R52"
 			(at 135.89 171.4499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15712,6 +17047,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "R52")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "R64")
 					(unit 1)
 				)
@@ -15730,7 +17071,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dadf043f-498b-480e-b8bd-f948257fda57")
-		(property "Reference" "R41"
+		(property "Reference" "R44"
 			(at 86.36 118.1099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15794,6 +17135,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "R44")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "R41")
 					(unit 1)
 				)
@@ -15812,7 +17159,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "db51b531-f9a6-452d-93e3-9b71b4163b87")
-		(property "Reference" "C26"
+		(property "Reference" "C18"
 			(at 157.48 171.4499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15876,6 +17223,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "C18")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "C26")
 					(unit 1)
 				)
@@ -15894,7 +17247,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e574d0c3-2686-4cc3-b0a7-7edb06016272")
-		(property "Reference" "R45"
+		(property "Reference" "R47"
 			(at 93.98 157.4799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15958,6 +17311,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "R47")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "R45")
 					(unit 1)
 				)
@@ -16070,11 +17429,17 @@
 					(unit 1)
 				)
 			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
+					(reference "Y1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 67.31 50.8 90)
+		(at 66.04 50.8 90)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -16085,8 +17450,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e8b85972-039d-4287-af7f-5f2ae8dc055e")
-		(property "Reference" "R24"
-			(at 67.31 44.45 90)
+		(property "Reference" "R31"
+			(at 66.04 44.45 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16096,7 +17461,7 @@
 			)
 		)
 		(property "Value" "240k/1Q"
-			(at 67.31 46.99 90)
+			(at 66.04 46.99 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16106,7 +17471,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
-			(at 67.31 49.022 90)
+			(at 66.04 49.022 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16117,7 +17482,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 67.31 50.8 0)
+			(at 66.04 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16128,7 +17493,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 67.31 50.8 0)
+			(at 66.04 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16147,6 +17512,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "R31")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "R24")
 					(unit 1)
 				)
@@ -16155,7 +17526,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 85.09 82.55 90)
+		(at 83.82 82.55 90)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -16166,8 +17537,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e97a147e-0d53-4883-bd4d-f0a9faa77a1f")
-		(property "Reference" "R33"
-			(at 85.09 76.2 90)
+		(property "Reference" "R38"
+			(at 83.82 76.2 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16177,7 +17548,7 @@
 			)
 		)
 		(property "Value" "240k/1Q"
-			(at 85.09 78.74 90)
+			(at 83.82 78.74 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16187,7 +17558,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
-			(at 85.09 80.772 90)
+			(at 83.82 80.772 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16198,7 +17569,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 85.09 82.55 0)
+			(at 83.82 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16209,7 +17580,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 85.09 82.55 0)
+			(at 83.82 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16228,6 +17599,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "R38")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "R33")
 					(unit 1)
 				)
@@ -16245,7 +17622,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ec749c7e-459e-4891-8a66-b212b642e626")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR039"
 			(at 161.29 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -16305,6 +17682,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "#PWR039")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "#PWR033")
 					(unit 1)
 				)
@@ -16391,6 +17774,12 @@
 					(unit 1)
 				)
 			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
+					(reference "C7")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -16405,7 +17794,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ed555531-4498-4b7f-84fe-45447d013b64")
-		(property "Reference" "R51"
+		(property "Reference" "R58"
 			(at 158.75 44.4499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16469,6 +17858,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "R58")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "R51")
 					(unit 1)
 				)
@@ -16486,7 +17881,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ee5cdfb1-defd-4e91-b422-a0effabcd621")
-		(property "Reference" "#PWR042"
+		(property "Reference" "#PWR046"
 			(at 256.54 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -16546,6 +17941,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "#PWR046")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "#PWR042")
 					(unit 1)
 				)
@@ -16563,7 +17964,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f198848a-f4bf-496e-ab4b-7e385d33cf12")
-		(property "Reference" "#PWR039"
+		(property "Reference" "#PWR045"
 			(at 228.6 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -16623,6 +18024,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "#PWR045")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "#PWR039")
 					(unit 1)
 				)
@@ -16641,7 +18048,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f41850ba-b9f3-42a7-88fd-e5129b331193")
-		(property "Reference" "R42"
+		(property "Reference" "R45"
 			(at 86.36 128.2699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16705,6 +18112,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "R45")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "R42")
 					(unit 1)
 				)
@@ -16722,7 +18135,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f6b20c8b-1d03-46d4-9417-10b14c555ad8")
-		(property "Reference" "TP26"
+		(property "Reference" "TP12"
 			(at 135.89 192.5321 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16784,6 +18197,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "TP12")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "TP26")
 					(unit 1)
 				)
@@ -16802,7 +18221,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fbe5d83a-5374-49be-a733-2e5bb84a4151")
-		(property "Reference" "R50"
+		(property "Reference" "R57"
 			(at 151.13 105.4099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16866,6 +18285,12 @@
 		(instances
 			(project "PCB"
 				(path "/bbf337a2-1c9b-47cc-884f-2cec96e170cf"
+					(reference "R57")
+					(unit 1)
+				)
+			)
+			(project "energy_metering"
+				(path "/e9832fda-2c09-4100-a6a4-8ade8d54eab4"
 					(reference "R50")
 					(unit 1)
 				)
