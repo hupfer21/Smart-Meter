@@ -11328,7 +11328,7 @@
 				)
 			)
 		)
-		(property "Footprint" "1lib:FuseHolder_5x20mm_P=22,5mm"
+		(property "Footprint" "myLIB:FuseHolder_5x20mm_P=22,5mm"
 			(at 29.21 27.94 0)
 			(hide yes)
 			(show_name no)
