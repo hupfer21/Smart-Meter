@@ -4619,6 +4619,12 @@
 		(color 0 0 0 0)
 		(uuid "d28c61b2-0153-41cd-bd38-b1864d1e2f59")
 	)
+	(junction
+		(at 118.11 45.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f779ddad-b163-4b73-b163-f5d06ee7b06b")
+	)
 	(wire
 		(pts
 			(xy 168.91 60.96) (xy 161.29 60.96)
@@ -4628,6 +4634,16 @@
 			(type default)
 		)
 		(uuid "020a0dae-da3d-4823-9f21-f72f0e6b706d")
+	)
+	(wire
+		(pts
+			(xy 118.11 45.72) (xy 130.81 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0236bae4-7101-4a9e-af18-8c17c6e46806")
 	)
 	(wire
 		(pts
@@ -4738,6 +4754,16 @@
 			(type default)
 		)
 		(uuid "183cd964-9490-40d4-822a-ded81aa94439")
+	)
+	(wire
+		(pts
+			(xy 106.68 45.72) (xy 107.95 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "188edb31-8ed3-4a7e-bd2d-83cdcff53c42")
 	)
 	(wire
 		(pts
@@ -4961,6 +4987,16 @@
 	)
 	(wire
 		(pts
+			(xy 118.11 35.56) (xy 118.11 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "450a7d85-51fe-43aa-b337-cc431823419f")
+	)
+	(wire
+		(pts
 			(xy 240.03 97.79) (xy 242.57 97.79)
 		)
 		(stroke
@@ -5098,16 +5134,6 @@
 			(type default)
 		)
 		(uuid "5ce14cfd-f159-4d57-b439-e800c5bbc417")
-	)
-	(wire
-		(pts
-			(xy 125.73 45.72) (xy 130.81 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5fc7c9f6-f212-4888-8f54-e7bdc2e2086a")
 	)
 	(wire
 		(pts
@@ -5621,6 +5647,16 @@
 	)
 	(wire
 		(pts
+			(xy 118.11 45.72) (xy 118.11 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d1d2539b-722d-4b17-9490-1378db7b8a77")
+	)
+	(wire
+		(pts
 			(xy 121.92 83.82) (xy 130.81 83.82)
 		)
 		(stroke
@@ -5761,6 +5797,16 @@
 	)
 	(wire
 		(pts
+			(xy 115.57 45.72) (xy 118.11 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e616af88-bcd5-4e5d-acdb-0d70b19b786b")
+	)
+	(wire
+		(pts
 			(xy 241.3 92.71) (xy 240.03 92.71)
 		)
 		(stroke
@@ -5808,6 +5854,16 @@
 			(type default)
 		)
 		(uuid "efbef3cf-2a1b-41c1-a7aa-3a3fea0b8108")
+	)
+	(wire
+		(pts
+			(xy 106.68 46.99) (xy 106.68 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f086a71b-f7c4-4460-9bb8-f59793ad3607")
 	)
 	(wire
 		(pts
@@ -7078,6 +7134,87 @@
 			(project "PCB"
 				(path "/49de2b81-dafd-4299-9e65-2012b4d9117e"
 					(reference "#PWR026")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 118.11 40.64 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "256ea9b7-dcfd-4599-a193-177e6d952c03")
+		(property "Reference" "R71"
+			(at 120.65 39.3699 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 120.65 41.9099 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 116.332 40.64 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 118.11 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 118.11 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5a44648e-6c5b-4365-8e70-1620e6411689")
+		)
+		(pin "2"
+			(uuid "f9c78848-f283-4217-ad11-b8747d5e6b49")
+		)
+		(instances
+			(project "PCB"
+				(path "/49de2b81-dafd-4299-9e65-2012b4d9117e"
+					(reference "R71")
 					(unit 1)
 				)
 			)
@@ -8984,6 +9121,85 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3V3")
+		(at 118.11 35.56 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8033306a-0cbc-4386-bfc6-115d7cf725af")
+		(property "Reference" "#PWR095"
+			(at 118.11 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 118.11 30.48 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 118.11 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 118.11 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 118.11 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "2c4ff39b-bfd4-41d2-adbc-85b5426b129f")
+		)
+		(instances
+			(project "PCB"
+				(path "/49de2b81-dafd-4299-9e65-2012b4d9117e"
+					(reference "#PWR095")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 207.01 107.95 0)
 		(mirror y)
@@ -9703,6 +9919,84 @@
 			(project "PCB"
 				(path "/49de2b81-dafd-4299-9e65-2012b4d9117e"
 					(reference "R4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 106.68 46.99 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "a2edb4ba-2bd3-4c79-840e-e9910549c59b")
+		(property "Reference" "#PWR096"
+			(at 106.68 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 103.124 49.022 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 106.68 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 106.68 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 106.68 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f72fbb85-51e1-4965-aee1-e40d8915951e")
+		)
+		(instances
+			(project "PCB"
+				(path "/49de2b81-dafd-4299-9e65-2012b4d9117e"
+					(reference "#PWR096")
 					(unit 1)
 				)
 			)
@@ -11130,6 +11424,88 @@
 			(project "PCB"
 				(path "/49de2b81-dafd-4299-9e65-2012b4d9117e"
 					(reference "R3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 111.76 45.72 270)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "e561dc1a-659c-43e6-9ba6-ded64a4856f5")
+		(property "Reference" "C40"
+			(at 109.982 40.132 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n/16V"
+			(at 106.934 42.164 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 107.95 44.7548 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 111.76 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 111.76 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "653e54df-a651-4e2d-a1b2-c8e00eaaba80")
+		)
+		(pin "2"
+			(uuid "3e65cabe-afd8-4d62-adee-7926371259f1")
+		)
+		(instances
+			(project "PCB"
+				(path "/49de2b81-dafd-4299-9e65-2012b4d9117e"
+					(reference "C40")
 					(unit 1)
 				)
 			)
